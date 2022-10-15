@@ -1,7 +1,7 @@
 # In Ho Ted Jung
 Education: University of Illinois at Urbana-Champaign
 
-Work: Hyundai Capital America
+Work: Hyundai Capital America, Internal Audit
 
 Email: tedgt97@gmail.com
 
