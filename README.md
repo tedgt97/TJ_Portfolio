@@ -1,5 +1,7 @@
-# TJ_Portfolio
-In Ho Ted Jung Data Science Portfolio
+# In Ho Ted Jung
+Education: University of Illinois at Urbana-Champaign
+Work: Hyundai Capital America
+Email: tedgt97@gmail.com
 
 # Project 1: Monthly Report Generator: Audit Issue Action Plans
 - Goal: Create automation script to generate monthly audit report of remaining & overdue action plans for each department
