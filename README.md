@@ -1,6 +1,8 @@
 # In Ho Ted Jung
 Education: University of Illinois at Urbana-Champaign
+
 Work: Hyundai Capital America
+
 Email: tedgt97@gmail.com
 
 # Project 1: Monthly Report Generator: Audit Issue Action Plans
